@@ -26,6 +26,8 @@ npm run preview
 5. Output directory: `dist`.
 6. Faça o deploy.
 
+
+
 ## Regras do calendário
 - A primeira lição abre em 26/11/2026.
 - Uma nova lição é liberada a cada dia, pela data local do dispositivo.
