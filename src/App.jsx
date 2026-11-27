@@ -312,7 +312,7 @@ export default function App() {
               <div>
                 <span>LEITURA BÍBLICA</span>
                 <strong>{devotional.reference}</strong>
-                <small>Leia o texto na sua Bíblia, observando o contexto.</small>
+                <small>Leia o texto na sua Bíblia, observando o contexto em diferentes versões.</small>
               </div>
             </div>
             <div className="reflection-card">
@@ -441,4 +441,5 @@ export default function App() {
       )}
     </div>
   );
+
 }
